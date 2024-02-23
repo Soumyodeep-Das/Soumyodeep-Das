@@ -56,7 +56,7 @@
 ###
 
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/Soumyodeep-Das/Soumyodeep-Das/blob/main/snake.yml" alt="Snake animation" />
-
+--!>
 ###
