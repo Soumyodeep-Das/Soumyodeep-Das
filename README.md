@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Soumyodeep Das this side. I'm doing MCA from Jadavpur University. <a href="https://linktr.ee/soumyodeep">Connect</a> with me via socials.</h2>
+<h2 align="center">Hi there 👋! Soumyodeep Das this side. I'm doing MCA from Jadavpur University. <a href="https://linktr.ee/soumyodeep">Connect</a> with me via socials.</h2>
 
 ###
 
