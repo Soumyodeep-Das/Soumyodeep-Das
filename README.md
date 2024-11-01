@@ -1,4 +1,5 @@
 ### <div align="center">Hi there 👋! Soumyodeep Das this side. I'm doing MCA from Jadavpur University.</div>  
+### <div align="center">Find me at [soumyodeep.tech](soumyodeep.tech)</div>  
   
 
 - 🌱 I’m currently learning web3 and Full Stack Web & App Dev  
