@@ -2,7 +2,7 @@
 ### <div align="center">Find me at [soumyodeep.tech](https://www.soumyodeep.tech)</div>  
   
 
-- 🌱 I’m currently learning web3 and Full Stack Web & App Dev  
+- 🌱 I’m currently learning web3 and Full Stack Web & App Dev.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
