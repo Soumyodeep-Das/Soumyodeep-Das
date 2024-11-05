@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning web3 and Full Stack Web & App Dev  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.  
   
 
 - ⚡ Fun fact: I use tabs over spaces.  
