@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Soumyodeep Das</h1>
 <h3 align="center">MCA Student at Jadavpur University</h3>
-<h4 align="center">🌐 Find me at <a href="https://www.soumyodeep.tech" target="_blank">soumyodeep.tech</a></h4>
+<h4 align="center">🌐 Find me at <a href="https://www.soumyodeep.vercel.app" target="_blank">soumyodeep.tech</a></h4>
 
 ---
 
